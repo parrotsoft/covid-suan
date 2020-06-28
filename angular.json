@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "covidsuacovid"
+    }
+  },
+  "defaultProject": "covidsuacovid",
+  "cli": {
+    "analytics": false
+  }
 }
